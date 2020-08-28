@@ -7,7 +7,7 @@ apiset: server
 ```c
 void SET_HTTP_HANDLER(func handler);
 ```
-
+Example: https://pastebin.com/Y4pgKryW
 
 ## Parameters
 * **handler**: 
